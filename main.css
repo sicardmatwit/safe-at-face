@@ -1,0 +1,16 @@
+body {
+    background-image: url(phone.jpg);
+    background-repeat: no-repeat;
+}
+div.screen {
+    /*border-style: solid;
+    border-color: black;*/
+
+    position: absolute;
+    left: 30px;
+    top: 80px;
+    height: 425px;
+    width: 240px;
+
+    text-align: center
+}
