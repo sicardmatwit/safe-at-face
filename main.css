@@ -2,11 +2,15 @@ body {
     background-image: url(phone.jpg);
     background-image: center;
     background-repeat: no-repeat;
+    position: center;
+    padding: 0;
+    margin: 0;
+    height: 95%;
 }
 div.screen {
     /*border-style: solid;
     border-color: red;*/
-    background-color:rgb(170, 141, 197);
+    background-color:rgb(86, 120, 212);
     position: absolute;
     left: 30px;
     top: 80px;
