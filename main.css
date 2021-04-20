@@ -1,16 +1,23 @@
 body {
     background-image: url(phone.jpg);
+    background-image: center;
     background-repeat: no-repeat;
+    position: center;
+    padding: 0;
+    margin: 0;
+    height: 95%;
 }
 div.screen {
     /*border-style: solid;
-    border-color: black;*/
-
+    border-color: red;*/
+    background-color:rgb(86, 120, 212);
     position: absolute;
     left: 30px;
     top: 80px;
     height: 425px;
     width: 240px;
-
-    text-align: center
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    text-align: center 
+    
 }
