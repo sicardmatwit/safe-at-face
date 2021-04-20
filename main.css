@@ -1,6 +1,9 @@
 body {
     background-image: url(phone.jpg);
     background-repeat: no-repeat;
+    background-color:blueviolet;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 15px;
 }
 div.screen {
     /*border-style: solid;
