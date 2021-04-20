@@ -18,6 +18,8 @@ div.screen {
     width: 240px;
     font-family: "Times New Roman", Times, serif;
     font-size: 20px;
-    text-align: center
+    text-decoration-color:black;
+    text-align: center 
     
 }
+ a.nounderline:link{text-decoration:none;}
