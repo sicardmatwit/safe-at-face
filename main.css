@@ -12,12 +12,12 @@ div.screen {
     border-color: red;*/
     background-color:rgb(86, 120, 212);
     position: absolute;
-    left: 30px;
-    top: 80px;
-    height: 425px;
-    width: 240px;
+    left: 28px;
+    top: 68px;
+    height: 447px;
+    width: 250px;
     font-family: "Times New Roman", Times, serif;
     font-size: 20px;
-    text-align: center 
-    
+    text-align: center; 
+    color: white;   
 }
