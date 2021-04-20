@@ -8,8 +8,8 @@ body {
 div.screen {
     /*border-style: solid;
     border-color: black;*/
-    background-color:rgb(170, 141, 197);
-    position: center;
+
+    position: absolute;
     left: 30px;
     top: 80px;
     height: 425px;
